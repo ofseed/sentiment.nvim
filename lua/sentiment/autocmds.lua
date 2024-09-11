@@ -17,7 +17,6 @@ local renderer = Autocmd.new({
   events = {
     "BufWinEnter",
     "WinScrolled",
-    "ModeChanged",
     "CursorMoved",
     "CursorMovedI",
   },
